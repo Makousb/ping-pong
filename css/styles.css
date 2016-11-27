@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+}
+
+
+html, body{
+  height: 100%;
+}
+
+.body{
+  padding: 0;
+  margin: 0;
+}
+
+.sect1{
+  height: 45%;
+  background-color: #B7950B;
+}
+.subsect{
+
+  background-color: #283747;
+  height: 95%;
+  width: 30%;
+  position: relative;
+  bottom: 320px;
+}
+.sect2{
+  background-color: #BFBFBF;
+  height: 100%;
+}
+#logo{
+  color: #7D6608;
+  font-family: 'Bungee Inline', cursive;
+  text-align: center;
+  position: relative;
+  top: 100px;
+  font-size: 54px
+}
+.container{
+  position: relative;
+  left: 500px;
+}
