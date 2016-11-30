@@ -40,3 +40,11 @@ html, body{
   position: relative;
   left: 500px;
 }
+#about{
+  color: white;
+  font-family: 'Bungee Inline', cursive;
+}
+#creator{
+  color: #7D6608;
+  
+}
